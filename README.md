@@ -66,13 +66,7 @@ npm start
 
 *(You can replace these placeholders with actual screenshots of your amazing Desktop and Mobile views!)*
 
-| Dashboard Metrics | Dynamic Cashbook Action |
-| :---: | :---: |
-| ![Dashboard] | ![Cashbook] |
 
-| Light vs Dark Theme toggles | Smart WhatsApp Integration |
-| :---: | :---: |
-| ![Theming] | ![Actions] |
 
 ---
 
