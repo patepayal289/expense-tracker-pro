@@ -1,5 +1,5 @@
 import React from "react";
-import { User, Lock, Bell, Palette, Download, Shield } from "lucide-react";
+import { User, Moon } from "lucide-react";
 import { useAppContext } from "../context/AppContext";
 
 export default function SettingsPage() {
@@ -16,7 +16,7 @@ export default function SettingsPage() {
         {/* Profile Card */}
         <div className="col-lg-4">
           <div className="glass-panel text-center p-5 rounded-4 shadow-sm h-100">
-            <div className="avatar mx-auto mb-3 flex-center align-items-center justify-content-center bg-primary-subtle text-primary border-4 border-white shadow-sm" style={{width: 100, height: 100, fontSize: '3rem'}}>
+            <div className="avatar mx-auto mb-3 flex-center align-items-center justify-content-center bg-primary-subtle text-primary border-4 border-white shadow-sm" style={{ width: 100, height: 100, fontSize: '3rem' }}>
               A
             </div>
             <h4 className="fw-bold mb-0">Admin User</h4>
@@ -41,7 +41,7 @@ export default function SettingsPage() {
         <div className="col-lg-8">
           <div className="glass-panel p-4 rounded-4 shadow-sm">
             <h5 className="fw-bold mb-4">General Settings</h5>
-            
+
             <div className="list-group list-group-flush settings-list">
               <div className="list-group-item d-flex justify-content-between align-items-center py-3 bg-transparent border-bottom-subtle px-0">
                 <div className="d-flex align-items-center gap-3">
@@ -110,7 +110,7 @@ export default function SettingsPage() {
                 <button className="btn btn-outline-secondary btn-sm px-3 rounded-pill" onClick={() => alert("Downloading all backup...")}>Backup Now</button>
               </div>
             </div>
-            
+
             <div className="mt-4 pt-3 text-end">
               <button className="btn btn-primary px-4 shadow-sm rounded-pill">Save Changes</button>
             </div>
