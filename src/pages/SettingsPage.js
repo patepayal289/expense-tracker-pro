@@ -1,5 +1,5 @@
 import React from "react";
-import { User, Lock, Bell, Palette, Download, Shield, Moon } from "lucide-react";
+import { User, Moon } from "lucide-react"
 import { useAppContext } from "../context/AppContext";
 
 export default function SettingsPage() {
