@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🚀 KhataPro: Advanced Expense & Ledger Tracker
 
 **KhataPro** is a beautifully designed, premium-grade business ledger and expense tracking web application. It acts as a digital ledger to effortlessly measure precise Cash IN/OUT events, comprehensively monitor individual customer credit history, send automated WhatsApp reminders to clients, and generate robust PDF accounting reports natively.
@@ -78,6 +77,3 @@ npm start
 ---
 
 Built meticulously to showcase scalable component structures, pure responsive CSS techniques, and intuitive UX decision-making within standard modern React web applications. 
-=======
-# expense-tracker-pro
->>>>>>> f9dd644486286360c30220e2de706e0803000fb1
