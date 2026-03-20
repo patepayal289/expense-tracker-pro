@@ -61,11 +61,7 @@ npm install
 # Instantly boot up the local development server (typically on http://localhost:3000)
 npm start
 ```
-
-## 📸 Screenshots
-
-*(You can replace these placeholders with actual screenshots of your amazing Desktop and Mobile views!)*
-
+live link: https://expense-tracker-pro-lhlv.vercel.app/dashboard
 
 
 ---
